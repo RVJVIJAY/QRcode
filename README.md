@@ -1,6 +1,6 @@
 🖼️ QR Code Generator
 
-<img src={`./pulic/qr.png`} ><img>
+![QR Code Example](./public/qr.png)
 
 A simple and customizable QR Code Generator built with React. Generate your QR codes quickly by entering data and specifying the size, then download your QR code with one click!
 
